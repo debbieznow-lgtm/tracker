@@ -1,0 +1,6 @@
+{
+  "name": "Ascent Habit & Addiction Recovery Tracker",
+  "description": "Comprehensive habit tracker and addiction cessation companion with urge surfing, sobriety counters, milestone timelines, and harm reduction tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
